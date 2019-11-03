@@ -1,0 +1,12 @@
+D:\ProyectoVentas\GitHub\RedSocial\01_Modelos\Entidad\bin\Release\netcoreapp2.2\Entidad.deps.json
+D:\ProyectoVentas\GitHub\RedSocial\01_Modelos\Entidad\bin\Release\netcoreapp2.2\Entidad.dll
+D:\ProyectoVentas\GitHub\RedSocial\01_Modelos\Entidad\bin\Release\netcoreapp2.2\Entidad.pdb
+D:\ProyectoVentas\GitHub\RedSocial\01_Modelos\Entidad\obj\Release\netcoreapp2.2\Entidad.csprojAssemblyReference.cache
+D:\ProyectoVentas\GitHub\RedSocial\01_Modelos\Entidad\obj\Release\netcoreapp2.2\Entidad.csproj.CoreCompileInputs.cache
+D:\ProyectoVentas\GitHub\RedSocial\01_Modelos\Entidad\obj\Release\netcoreapp2.2\Entidad.AssemblyInfoInputs.cache
+D:\ProyectoVentas\GitHub\RedSocial\01_Modelos\Entidad\obj\Release\netcoreapp2.2\Entidad.AssemblyInfo.cs
+D:\ProyectoVentas\GitHub\RedSocial\01_Modelos\Entidad\obj\Release\netcoreapp2.2\Entidad.dll
+D:\ProyectoVentas\GitHub\RedSocial\01_Modelos\Entidad\obj\Release\netcoreapp2.2\Entidad.pdb
+D:\ProyectoVentas\GitHub\RedSocial\01_Modelos\Entidad\bin\Release\netcoreapp2.2\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ProyectoVentas\GitHub\RedSocial\01_Modelos\Entidad\bin\Release\netcoreapp2.2\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\ProyectoVentas\GitHub\RedSocial\01_Modelos\Entidad\obj\Release\netcoreapp2.2\Entidad.csproj.CopyComplete
