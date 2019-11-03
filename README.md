@@ -10,4 +10,5 @@ Detallo los enlaces:
 Para asegurarse de contar con la version 2.2.104(x64) pueden ir a "Programas y Caracteristicas" o sino en la consola de windows colocar dotnet --version
 
 Generar sus clave ssh para realizar fetch, commit y push
+
 ssh-keygen -t rsa -b 4096 -C "utp.mmxix@gmail.com"
